@@ -1,0 +1,14 @@
+
+.main-header .header-links a {
+  text-decoration: none;
+  color: rgb(44, 44, 44);
+  font-size: 20px;
+  font-weight: 500;
+}
+.main-header .header-links a:last-child {
+  margin-left: 1.5rem;
+}
+
+.main-header .brand-icon img {
+  width: 140px;
+}

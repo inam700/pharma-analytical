@@ -1,0 +1,17 @@
+.hero-section {
+  background: url("../../resources/images/showcase/bg.jpg");
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.product-details .heading-details {
+  font-weight: 700;
+  font-size: 40px;
+  margin: 1.5rem 0 4rem 0;
+}
+
+.product-details .product-name {
+  color: #03562d;
+  font-weight: 600;
+}
